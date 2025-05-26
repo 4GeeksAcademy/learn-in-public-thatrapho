@@ -58,11 +58,10 @@ basic_info:
 
 # Your previous education
 education:
-    - degree: MSe in Computer Science
-      university: University of London
+    - degree: Graphic Design
+      university: NaturalFormacion, Elche
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
